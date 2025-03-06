@@ -4,7 +4,8 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
-Explain what software engineering is and discuss its importance in the technology industry.Software engineering is the systematic application of engineering princple like method, tools,development and maintainace of high quality software. It's importancey is that it plays a crucial role in the technology industryby enebling the creation of reliable, scaleble and innovative software solution that meet user needs.
+Explain what software engineering is and discuss its importance in the technology industry?
+Software engineering is the systematic application of engineering princple like method, tools,development and maintainace of high quality software. It's importancey is that it plays a crucial role in the technology industryby enebling the creation of reliable, scaleble and innovative software solution that meet user needs.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.they include
@@ -33,16 +34,16 @@ Feature	Waterfall	Agile
 Approach	Sequential, structured, phase-based	Iterative, flexible, and adaptive
 Phases	Defined stages: Requirements → Design → Implementation → Testing → Deployment → Maintenance	Continuous cycles (sprints/iterations) of planning, development, testing, and feedback
 Flexibility	Low—changes are difficult to accommodate once a phase is completed	High—adaptable to changes even late in development
-Documentation	Comprehensive and detailed upfront	Lightweight documentation, evolving with project needs
-Client Involvement	Limited—client feedback is typically at the end	High—frequent feedback from stakeholders
+Documentation important and detailed upfront	Lightweight documentation, evolving with project needs
+Client Involvement	Limited—client feedback is used at the end	High—frequent feedback from stakeholders
 Delivery Time	Delivered at the end of the project	Incremental deliveries throughout the process
-Best for	Projects with clear, fixed requirements and low uncertainty	Projects with evolving requirements and high uncertainty
+Best for	Projects with clear, fixed requirements and low uncertainty	Projects with changing requirements and high uncertainty
 Risk Management	Higher risk—problems are often detected late	Lower risk—continuous feedback allows early issue detection
 Team Collaboration	Roles are well-defined, and teams work sequentially	Cross-functional teams collaborate closely
 When to Use Waterfall
 Example Scenarios:
 
-Construction Projects: A building project requires clear planning, defined steps, and fixed timelines.
+Construction Projects: Building project requires clear planning, defined steps, and fixed timelines.
 Medical Device Development: Strict regulatory compliance means extensive documentation and structured phases are needed.
 Large Government Contracts: These often require rigid project scopes, extensive documentation, and predictable execution.
 When to Use Agile
