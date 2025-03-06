@@ -29,12 +29,12 @@ List and briefly explain the phases of the Software Development Life Cycle.
     
 
 
-Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.Comparison of Waterfall and Agile Methodologies
+Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.Comparison of Waterfall and Agile Methodologies?
 Feature	Waterfall	Agile
 Approach	Sequential, structured, phase-based	Iterative, flexible, and adaptive
 Phases	Defined stages: Requirements → Design → Implementation → Testing → Deployment → Maintenance	Continuous cycles (sprints/iterations) of planning, development, testing, and feedback
-Flexibility	Low—changes are difficult to accommodate once a phase is completed	High—adaptable to changes even late in development
-Documentation important and detailed upfront	Lightweight documentation, evolving with project needs
+Flexibility	Low—changes are difficult to accept once a phase is completed	High—adaptable to changes even late in advacement
+Documentation regarding and detailed upfront	Lightweight documentation, evolving with project needs
 Client Involvement	Limited—client feedback is used at the end	High—frequent feedback from stakeholders
 Delivery Time	Delivered at the end of the project	Incremental deliveries throughout the process
 Best for	Projects with clear, fixed requirements and low uncertainty	Projects with changing requirements and high uncertainty
@@ -71,12 +71,23 @@ What are some common challenges faced by software engineers? Provide strategies 
 4. Strategies For Overcoming  Challenges: they iclude effective communication, agile methodologies, prioritization of task,and regular reassessment of project goals and timelines. 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+1 Unit Testing is defined as the requirements for testing individual componet or fuctions of a software application in isolation.
+Goal: Ensures that each unit (eg:, function, method or class)work correctly.
+2.Intagration Testing
+Defination: test how diffrent unit or components of software interact with each other.
+Importance: Identifies issues in data flow betweeen modules.
+            Reduce intergration related bugs in later stages
+3.System Testing is validation of the whole system to ensure itmeets it requirement.
+goal: Test the whole system in a simulated prodution environment.
+
+
+            
 
 
 #Part 2: Introduction to AI and Prompt Engineering
 
 
-Define prompt engineering and discuss its importance in interacting with AI models.it is crafting questions or statements to get possilble responce from AI models.
+Define prompt engineering and discuss its importance in interacting with AI models.it is crafting questions or statements to get possilble responce from AI models. It is importantcy is that it help the machine understand the result you need at eases,and it is also fast if it is given the corret responce. 
 
 
 
@@ -86,6 +97,6 @@ Clarity – It specifies the exact topic: artificial intelligence in healthcare,
 Specificity – It outlines key areas to cover: benefits, challenges, and future potential.
 Conciseness – The improved version is direct and to the point without unnecessary words.
 Defined Scope – It sets a length expectation (500 words), preventing overly broad or too brief responses.
-
+                                            
 
 
