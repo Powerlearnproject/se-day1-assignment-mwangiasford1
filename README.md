@@ -1,11 +1,11 @@
-[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18386386&assignment_repo_type=AssignmentRepo)
+up[![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18386386&assignment_repo_type=AssignmentRepo)
 # SE_Day1
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
 Explain what software engineering is and discuss its importance in the technology industry?
-Software engineering is the systematic application of engineering princple like method, tools,development and maintainace of high quality software. It's importancey is that it plays a crucial role in the technology industryby enebling the creation of reliable, scaleble and innovative software solution that meet user needs.
+Software engineering is the systematic application of engineering princple,method, tools,development and maintainace of high quality software. It's importancey is that it plays a crucial role in the technology industryby enebling the creation of reliable, scaleble and innovative software solution that meet user needs.
 
 
 Identify and describe at least three key milestones in the evolution of software engineering.they include
